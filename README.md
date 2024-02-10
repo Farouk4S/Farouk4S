@@ -1,7 +1,7 @@
 ### Hi there... 👋 I am Farouk Shittu
 
 I am a Data Analyst keen about solving problems for businesses. 
-My frame of mind is to be key in delivering a business growth targets and to enjoy collaborating with like minds on shared goals.  s 
+My frame of mind is to be key in delivering business's growth targets and to enjoy collaborating with like minds on shared goals.
 
 Here is a little more about me:
 
