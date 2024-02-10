@@ -11,11 +11,11 @@ Here is a little more about me:
 - ⚡ Fun fact: I laugh a lot.
 
 ### Technical Skills
-I have proficiency in using these tools
-    Visualisation Tools: Power BI and Tableau
-    Programming: MySQL and R.
+I have proficiency in using these tools:
+-   Visualisation Tools: Power BI and Tableau
+-   Programming: MySQL and R.
 
 ### Soft Skills
-    Problem solving
-    Effective Communicator
-    Project Management
+-   Problem solving
+-   Effective Communicator
+-   Project Management
