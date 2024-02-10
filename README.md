@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there... 👋 I am Farouk Shittu
 
-<!--
-**Farouk4S/Farouk4S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analyst keen about solving problems for businesses. 
+My frame of mind is to be key in delivering a business growth targets and to enjoy collaborating with like minds on shared goals.  s 
 
-Here are some ideas to get you started:
+Here is a little more about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I have just finished my Google Data Analysis Capstone Project
+- 🌱 I’m currently learning Business Analysis course on Udemy
+- 👯 I’m looking to collaborate on more Data (Reporting) Analysis Projects.
+- ⚡ Fun fact: I laugh a lot.
+
+### Technical Skills
+I have proficiency in using these tools
+    Visualisation Tools: Power BI and Tableau
+    Programming: MySQL and R.
+
+### Soft Skills
+    Problem solving
+    Effective Communicator
+    Project Management
